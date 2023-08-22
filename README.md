@@ -6,3 +6,6 @@
 >
 > Idade: 13
 >
+> Escolas: *Alura* e discover-*rocketseat*
+>
+> Formações *Alura*: A partir do zero iniciante em programação
